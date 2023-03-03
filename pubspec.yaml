@@ -1,0 +1,5 @@
+name: dart.learning
+environment:
+  sdk: 2.19.1
+dependencies:
+  characters: ^1.2.1
